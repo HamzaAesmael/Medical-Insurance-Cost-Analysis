@@ -19,6 +19,6 @@ This project analyzes a medical insurance dataset to:
 ---
 
 ## 📂 Dataset
-**Source**: [IBM Cloud](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DA0101EN-Coursera/medical_insurance_dataset.csv)  
+**Source**: [IBM Cloud]( https://docs.google.com/spreadsheets/d/1lUH_aRYoBdQ-4sEal1DNDLD0ZFb37AZtmixQNB26hQA/edit?gid=1492077381#gid=1492077381 )  
 **Columns**:  
 - `age`, `sex`, `bmi`, `children`, `smoker`, `region`, `charges`
